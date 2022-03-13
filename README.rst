@@ -17,11 +17,13 @@ few things about
 I wrote a Python library about it called
 `chaospy <https://github.com/jonathf/chaospy>`_, which some people seem to
 like. I still maintain it and add some features there now and again.
+I also maintain `pyvroom <https://github.com/VROOM-Project/pyvroom>`_ a library
+for solving solving various vehicle routing problems.
 
 I love doing research, and if it weren't for the tedious paper and funding
 application writing, I'd likely still be doing that. Instead I work for
 `Expert Analytics <https://expertanalytics.no>`_, where I mostly work as a
-programmer and data scientist, and have a lot fun.
+software developer and data scientist, and have a lot fun.
 
 .. image:: https://github-readme-stats.vercel.app/api?username=jonathf
 
